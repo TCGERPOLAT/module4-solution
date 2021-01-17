@@ -1,7 +1,5 @@
 /*
-Solution of assignment 4:
-
-Expected output:
+on the console should look like this:
 
 Hello Yaakov
 Good Bye John
